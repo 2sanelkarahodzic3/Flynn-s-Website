@@ -1,18 +1,26 @@
 body{
 font-family: 'Lato', sans-serif;
-font-weight: 40;
-color:blue;
+font-weight: 500;
+
 }
 
 h6,
 h5,
 h4,
+h3,
 h2,
 h1 {
 	
-	
+	font-family: 'slabo', serif;
+	font-weight:27;
 	
 	
 }
 .navbar-brand img {width;200px;}
+
+#footer {background-color:blue;color:#fff}
+
+#lowerfooter {background-color:green;}
+#lowerfooter i {font-size:50px;color:#fff;margin:17px 13px 4px 2px}
+
 
